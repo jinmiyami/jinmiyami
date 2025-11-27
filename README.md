@@ -1,1 +1,1 @@
-![joined-2019/04/16](https://img.shields.io/badge/joined-2019/04/16-brightgreen) ![MacminiM2Pro,MacminiM1,MacBookAirM4](https://img.shields.io/badge/MacminiM2Pro,MacminiM1,MacBookAirM4-brightgreen)
+![joined-2019/04/16](https://img.shields.io/badge/joined-2019/04/16-brightgreen) ![MacminiM2Pro,Macmini2014,MacminiM1,MacBookAirM4](https://img.shields.io/badge/MacminiM2Pro,Macmini2014,MacminiM1,MacBookAirM4-brightgreen)
